@@ -1,0 +1,9 @@
+
+git 
+git config --list
+
+git init 
+git add .
+git commit -m "change"
+git remote add origin link
+git push -u origin master
