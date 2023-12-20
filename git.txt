@@ -12,3 +12,7 @@ git add .
 git commit -m "change"
 git remote add origin link
 git push -u origin master
+
+
+git branch
+git checkout master  # to switch
